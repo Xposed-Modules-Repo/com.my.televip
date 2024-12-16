@@ -28,3 +28,5 @@ A module for modifying Telegram with the following features:
 There are additional features that are not listed here.
 
 This module is compatible with the latest version of the official Telegram app.
+
+Developed by an @mustafa1dev
