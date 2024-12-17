@@ -29,14 +29,14 @@ A module for modifying Telegram with the following features:
 There are additional features that are not listed here.
 
 This module is compatible with:
-Telegram
-Plus
-TG Connect
-Skygram
-iMe
-X Plus
-Cherrygram
-Nicegram
-Nagram
+1. Telegram
+2. Plus
+3. TG Connect
+4. Skygram
+5. iMe
+6. X Plus
+7. Cherrygram
+8. Nicegram
+9. Nagram
 
 Developed by an @mustafa1dev
