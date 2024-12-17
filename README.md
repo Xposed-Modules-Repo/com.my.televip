@@ -1,6 +1,6 @@
 # TeleVip LSPosed
 
-# A module for modifying Telegram with the following features:
+A module for modifying Telegram with the following features:
 
 1. Hide "Seen" status for messages.
 
@@ -28,7 +28,7 @@
 
 There are additional features that are not listed here.
 
-# This module is compatible with:
+This module is compatible with:
 Telegram
 Plus
 TG Connect
