@@ -28,7 +28,7 @@ A module for modifying Telegram with the following features:
 
 There are additional features that are not listed here.
 
-This module is compatible with:
+# Support clients
 1. Telegram
 2. Plus
 3. TG Connect
