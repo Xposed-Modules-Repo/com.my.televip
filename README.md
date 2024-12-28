@@ -37,7 +37,7 @@ There are additional features that are not listed here.
 6. iMe 11.5.3 (11050302)
 7. X Plus 11.5.4 (55159)
 8. Cherrygram 11.5.3 (55110)
-9. Nicegram 1.38.0 (1459)
+9. Nicegram 1.39.2 (1519)
 10. Telegram web 11.5.5 (55319)
 11. Telegram Beta 11.5.5 (55309)
 12. exteraGram 10.5.0 (42285)
