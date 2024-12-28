@@ -4,24 +4,17 @@ A module for modifying Telegram with the following features:
 
 1. Hide "Seen" status for messages.
 
-
 2. Hide "Typing..." indicator.
-
 
 3. Hide story view status.
 
-
 4. Unlock all restricted and encrypted features for channels.
-
 
 5. Boost Telegram download speed.
 
-
 6. Enable Telegram Premium features.
 
-
 7. Save stories to the gallery, including those that cannot normally be saved.
-
 
 8. Change name (Note: The name changes only on your device).
 
@@ -30,6 +23,8 @@ A module for modifying Telegram with the following features:
 10. Hide Online Status
 
 11. Prevent Deletion of Secret Media
+
+12. Show Deleted Messages
 
 There are additional features that are not listed here.
 
@@ -44,5 +39,8 @@ There are additional features that are not listed here.
 8. Cherrygram 11.5.3 (55110)
 9. Nicegram 1.38.0 (1459)
 10. Telegram web 11.5.5 (55319)
+11. Telegram Beta 11.5.5 (55309)
+12. exteraGram 10.5.0 (42285)
+13. Nekogram 11.5.3 (55111)
 
 Developed by an @mustafa1dev
