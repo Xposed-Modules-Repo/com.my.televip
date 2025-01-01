@@ -40,7 +40,9 @@ There are additional features that are not listed here.
 9. Nicegram 1.39.2 (1519)
 10. Telegram web 11.5.5 (55319)
 11. Telegram Beta 11.6.1 (55859)
-12. exteraGram 10.5.0 (42285)
+12. exteraGram 11.5.3 (55119)
 13. Nekogram 11.5.3 (55111)
+14. ForkGram 11.5.3.0 (551108)
+15. ForkClient Beta 11.5.3.0 (551109)
 
 Developed by an @mustafa1dev
