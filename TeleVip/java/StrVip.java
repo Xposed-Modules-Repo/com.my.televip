@@ -87,7 +87,7 @@ public static boolean isshow;
 
 public static void Strck(Context con){
 isdele=false;
-        if (MainHook.getAppLanguage(con).equals("ar")) {
+        if (getAppLanguage(con).equals("ar")) {
                    onemsg="اذهب إلى أول رسالة";
                    tothmsg="إلى الرسالة";
                    inpMsg="ادخل معرف الرسالة";
@@ -117,7 +117,7 @@ isdele=false;
                    copname = "تم نسخ '";
                    copname2 = "' إلى الحافظة";
                    onlinestatic ="لست متصلاً بالإنترنت";
-                 }else if (MainHook.getAppLanguage(con).equals("zh")) {
+                 }else if (getAppLanguage(con).equals("zh")) {
 onemsg = "跳转到第一条消息";
 tothmsg = "跳转到消息";
 inpMsg = "输入消息 ID";
