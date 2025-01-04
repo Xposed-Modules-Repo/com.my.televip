@@ -34,7 +34,7 @@ There are additional features that are not listed here.
 1. Telegram 11.6.1 (55852)
 2. Plus 11.5.3.0 (21340)
 3. TG Connect 11.0.1 (1100109)
-4. Nagram 11.4.2 (1200)
+4. Nagram 11.5.3 (1202)
 5. Skygram 10.20.6 (40639)
 6. iMe 11.5.3 (11050302)
 7. X Plus 11.5.4 (55159)
