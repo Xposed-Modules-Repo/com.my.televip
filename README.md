@@ -41,7 +41,7 @@ There are additional features that are not listed here.
 8. Cherrygram 11.5.3 (55110)
 9. Nicegram 1.39.3 (1529)
 10. Telegram web 11.6.1 (55859)
-11. Telegram Beta 11.6.1 (55859)
+11. Telegram Beta 11.6.2 (56159)
 12. exteraGram 11.5.3 (55119)
 13. Nekogram 11.5.3S (55150)
 14. ForkGram 11.5.3.0 (551108)
