@@ -38,7 +38,7 @@ There are additional features that are not listed here.
 5. Skygram 10.20.6 (40639)
 6. iMe 11.5.3 (11050302)
 7. X Plus 11.5.4 (55159)
-8. Cherrygram 11.5.3 (55110)
+8. Cherrygram 11.5.3 (55130)
 9. Nicegram 1.39.3 (1529)
 10. Telegram web 11.6.1 (55859)
 11. Telegram Beta 11.6.2 (56159)
