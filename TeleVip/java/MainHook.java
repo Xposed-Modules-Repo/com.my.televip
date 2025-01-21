@@ -484,7 +484,9 @@ if (te.contains(String.valueOf((long)(userlong)))) {
                     
                     
                
-                    
+       
+       }else if (lpparam.packageName.equals("nu.gpu.nagram")){    
+       teleplus.Start(lpparam);                 
        }else if (lpparam.packageName.equals("org.telegram.plus")){    
        teleplus.Start(lpparam);                     
        } else if (lpparam.packageName.equals("com.tgconnect.android")){    
