@@ -16,17 +16,15 @@ A module for modifying Telegram with the following features:
 
 7. Save stories to the gallery, including those that cannot normally be saved.
 
-8. Change name (Note: The name changes only on your device).
+8. Hide Phone Number
 
-9. Hide Phone Number
+9. Hide Online Status
 
-10. Hide Online Status
+10. Prevent Deletion of Secret Media
 
-11. Prevent Deletion of Secret Media
+11. Show Deleted Messages
 
-12. Show Deleted Messages
-
-13. Disable Stories
+12. Disable Stories
 
 There are additional features that are not listed here.
 
@@ -45,6 +43,6 @@ There are additional features that are not listed here.
 12. exteraGram 11.9.0 (58370)
 13. Nekogram 11.5.3S (55150) TeleVip 1.4.6
 14. ForkGram 11.9.0.2 (583728)
-15. ForkClient Beta 11.5.3.0 (551109) TeleVip 1.4.6
+15. ForkClient Beta 11.5.3.0 (551109)
 
 Developed by an @mustafa1dev
