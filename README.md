@@ -29,22 +29,22 @@ A module for modifying Telegram with the following features:
 There are additional features that are not listed here.
 
 # Support clients
-1. Telegram 11.12.0 (59972)
-2. Plus 11.12.0.0 (21540)
-3. TG Connect 11.0.1 (1100109)
-4. Nagram 11.12.0 (1213)
+1. Telegram 12.4.1 (65102)
+2. Plus 12.3.1.2 (21950)
+3. TG Connect 11.13.1 (11130109)
+4. Nagram 12.3.1 (1228)
 5. Skygram 10.20.6 (40639) TeleVip 1.4.6
-6. iMe 11.9.5 (11090502)
-7. iMe Direct 11.9.5 (11090509)
-8. X Plus 11.8.2.1 (57869)
-9. Cherrygram 11.9.1 (59100)
-10. Nicegram 1.44.0 (1829)
-11. Telegram web 11.12.0 (59979)
-12. Telegram Beta 10.13.0 (48369)
+6. iMe 12.3.2 (12030202)
+7. iMe Direct 12.3.2 (12030229)
+8. X Plus 12.0.1 (61669)
+9. Cherrygram 11.9.1 (59100) TeleVip 2.0
+10. Nicegram 1.50.1 (1989)
+11. Telegram web 12.4.1 (65109)
+12. Telegram Beta 12.4.1 (65109)
 13. Nekogram 11.5.3S (55150) TeleVip 1.4.6
-14. ForkGram 11.9.1.0 (590008)
-15. ForkClient Beta 11.9.2.0 (599709)
-16. NagramX 11.12.0-abce9a2 (1211)
+14. ForkGram 12.3.2.0 (638608)
+15. ForkClient Beta 12.3.2.0 (638609)
+16. NagramX 12.3.1-905e275 (1235)
 17. Teegra 10.3.2 (41469)
 
 # Telegram
