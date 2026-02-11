@@ -1,3 +1,5 @@
+Move to [TeleVip](https://github.com/mustafa1dev/TeleVip-Lsposed).
+
 # TeleVip LSPosed
 
 A module for modifying Telegram with the following features:
